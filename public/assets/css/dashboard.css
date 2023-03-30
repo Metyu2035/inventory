@@ -1,0 +1,27 @@
+p {
+  color: white;
+  font-weight: bold;
+}
+
+i {
+  color: white;
+}
+
+thead {
+  color: white;
+  background-color: #06283d;
+  max-width: max-content;
+}
+
+tbody,
+td,
+th {
+  max-width: max-content;
+}
+
+#aksi {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}

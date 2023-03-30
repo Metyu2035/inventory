@@ -1,0 +1,65 @@
+*,
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Rubik", sans-serif;
+}
+
+img {
+  width: 30px;
+  height: 30px;
+}
+
+u {
+  font-weight: bold;
+}
+
+p {
+  margin-top: 10px;
+}
+
+.eduhoster {
+  width: 100%;
+  height: 100%;
+}
+
+.judul-perusahaan {
+  width: 100%;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.judul-cetak {
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.isi {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.tanda-tangan {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  margin-top: 10%;
+  align-items: flex-end;
+  flex-direction: column;
+}
+
+.isittd {
+  font-size: smaller;
+}

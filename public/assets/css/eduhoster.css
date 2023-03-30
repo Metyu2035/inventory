@@ -1,0 +1,62 @@
+hr {
+  opacity: 70%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  background-color: #06283d;
+}
+.body-edu {
+  font-family: "Poppins", sans-serif;
+}
+
+.latar {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.isi {
+  background-image: url(../img/background.jpg);
+}
+
+#card-edu {
+  border-radius: 5px;
+}
+
+#perusahaan {
+  height: auto;
+  max-width: 100%;
+  justify-content: center;
+}
+
+#sistem-edu {
+  display: flex;
+  color: black;
+  font-weight: bold;
+  font-size: larger;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+#peringatan-edu {
+  position: fixed;
+}
+
+#lupa-edu {
+  margin-top: 10px;
+}
+
+#border-edu {
+  color: #256d85;
+  border-color: #06283d;
+}
+
+#btn-edu {
+  color: white;
+  background-color: #06283d;
+}
